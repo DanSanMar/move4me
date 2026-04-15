@@ -23,8 +23,6 @@
 | **RedHat** | Fedora, RHEL, CentOS, Rocky Linux | `dnf`/`yum` |
 | **SUSE** | OpenSUSE Leap & Tumbleweed | `zypper` |
 
----
-
 ## 🚀 Instalación y Uso
 
 ### 1. Preparación (Equipo Origen)
