@@ -28,7 +28,8 @@
 ### 1. Preparación (Equipo Origen)
 Clona este repositorio o descarga el script:
 
-```bashgit clone https://github.com/DanSanMar/move4me.git
+```bash
+git clone https://github.com/DanSanMar/move4me.git
 cd move4me
 chmod +x move4me.sh
 ./move4me.sh
@@ -49,7 +50,8 @@ En la nueva máquina, abre la terminal en la carpeta donde copiaste los archivos
 
 ```Bash
 chmod +x restaurar_apps.sh
-./restaurar_apps.sh```
+./restaurar_apps.sh
+```
 📖 Instrucciones Detalladas
 El script incluye un manual de uso rápido dentro del menú principal (Opción 2). Asegúrate de tener conexión a internet en el equipo de destino para que el gestor de paquetes pueda descargar las aplicaciones.
 
