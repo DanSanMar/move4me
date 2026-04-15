@@ -32,7 +32,7 @@ Clona este repositorio o descarga el script:
 git clone [https://github.com/DanSanMar/move4me.git](https://github.com/DanSanMar/move4me.git)
 cd move4me
 chmod +x move4me.sh
-./move4me.sh
+./move4me.sh ```
 Selecciona la Opción 1 (Exportar Aplicaciones).
 
 Se generarán dos archivos en la carpeta actual:
