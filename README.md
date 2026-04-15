@@ -32,7 +32,7 @@ Clona este repositorio o descarga el script:
 git clone [https://github.com/DanSanMar/move4me.git](https://github.com/DanSanMar/move4me.git)
 cd move4me
 chmod +x move4me.sh
-./move4me.sh ```
+./move4me.sh```
 Selecciona la Opción 1 (Exportar Aplicaciones).
 
 Se generarán dos archivos en la carpeta actual:
@@ -47,9 +47,9 @@ Copia lista_paquetes.txt y restaurar_apps.sh a tu nueva máquina usando scp, un 
 3. Restauración (Equipo Destino)
 En la nueva máquina, abre la terminal en la carpeta donde copiaste los archivos y ejecuta:
 
-Bash
+```Bash
 chmod +x restaurar_apps.sh
-./restaurar_apps.sh
+./restaurar_apps.sh```
 📖 Instrucciones Detalladas
 El script incluye un manual de uso rápido dentro del menú principal (Opción 2). Asegúrate de tener conexión a internet en el equipo de destino para que el gestor de paquetes pueda descargar las aplicaciones.
 
